@@ -1,3 +1,3 @@
-# QualysAgent.exe
+# Executables
 
-Direct download link for QualysAgent.exe
+Direct download link for all .exe files.
